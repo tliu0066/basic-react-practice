@@ -1,3 +1,5 @@
+#react practice note
+
 create react : npm create vite@latest
 
 use “npm i” to install all package that we want
